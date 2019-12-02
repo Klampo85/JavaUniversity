@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 import java.util.Arrays;
-import java.lang.Iterable;
 
 public class Task06{//start of class
 
@@ -32,12 +30,3 @@ public class Task06{//start of class
 		
 
 }//end of class
-=======
-import java.util.Arrays
-
-public static void main(String[] args){
-	
-	System.out.println("Hello");
-
-}
->>>>>>> e883cd9beecd5347435c973fa33538657d736f2e
