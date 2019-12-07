@@ -1,2 +1,2 @@
-# Java_Projects
+# JavaUniversity
 Java Projects for University
