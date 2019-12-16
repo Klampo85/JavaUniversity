@@ -15,14 +15,14 @@ public class Task07 {
 
     }
 
-    public static String norm(String name){ //returns names with first letter uppercase and the following letters lower case
+    public static String norm(String name){
 
         return name.substring(0, 1).toUpperCase() + name.substring(1).toLowerCase();
     }
 
-    public static String init(String name){ //returns 
+    public static String init(String name){ 
     	
-    	String[] names = name.split(" "); // splits the string at the space
+    	String[] names = name.split(" "); 
     	String result = "";
     	for(int i = 0; i < names.length; ++i) {
     		if(i != names.length -1) {
