@@ -1,8 +1,9 @@
 
-public class Task08{
-    public static void main(String[] args){
+public class Task08 {
 
-        System.out.println("Test");
+	public static void main(String[] args) {
+		
 
-    }
+	}
+
 }
